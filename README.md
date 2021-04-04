@@ -7,12 +7,12 @@ This project is an exercise in composing a static webpage from scratch. As HTML 
 The content of the webpage itself will be a *'Cheat Sheet'* for relevant HTML and CSS topics
 
 ## Concepts Learned
-- HTML
+HTML
  - Basic document structure and language features.
  - Semantic tags and best practices.
  - Embedding audio and video content.
  - Basic accessibility best practices.
-- CSS
+CSS
  - File structure and syntax.
  - Selectors and specificity.
  - Semantic classes and best practices.
