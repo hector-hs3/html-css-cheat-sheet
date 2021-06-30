@@ -12,6 +12,7 @@ HTML
  - Semantic tags and best practices.
  - Embedding audio and video content.
  - Basic accessibility best practices.
+
 CSS
  - File structure and syntax.
  - Selectors and specificity.
@@ -25,5 +26,5 @@ CSS
 --
 ## Launching Project
 
-Download files then open `index.html` in your preferred browser (Right click & select Open With).
+Download files, then open `index.html` in your preferred browser (Right click & select Open With).
 s

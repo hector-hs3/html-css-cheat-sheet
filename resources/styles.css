@@ -1,5 +1,5 @@
-div {
-  padding-bottom: 10px;
+* {
+  font-family: monospace;
 }
 .first-level {
   padding-left: 0px;
@@ -10,4 +10,19 @@ div {
 }
 .third-level {
   padding-left: 30px;
+}
+.red {
+  color: lightcoral
+}
+.blue {
+  color: lightskyblue
+}
+.green {
+  color: lightgreen
+}
+.purple {
+  color: purple
+}
+.dark-green {
+  color: steelblue
 }
